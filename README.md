@@ -10,9 +10,8 @@
 
 | Módulo de citas | Módulo de citas | Dispositivo |
 | :--- | :--- | :--- | 
-<p align="center">
-  <img width="409" height="842" alt="smartphone-only_labllini_gest_lis_modulo_citas" src="https://github.com/user-attachments/assets/3b146755-9ff0-48d6-8cbf-1ab7819b7134" />
-</p>
+| <p align="center"> <img width="409" height="842" alt="smartphone-only_labllini_gest_lis_modulo_citas" src="https://github.com/user-attachments/assets/3b146755-9ff0-48d6-8cbf-1ab7819b7134" /> </p>
+
 
 <br>
 
