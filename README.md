@@ -13,5 +13,5 @@
 </p>
 
 <div align="center">
-  <sub>&copy; 2025 - 2026 <b>Vista SmartPhone, módulo de citas de laboratorio</b>. Todos los derechos reservados.</sub>
+  <sub>&copy; 2025 - 2026 <b>Sistema WEB LIS laboratorio</b>. Todos los derechos reservados.</sub>
 </div>
