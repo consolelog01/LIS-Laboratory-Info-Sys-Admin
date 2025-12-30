@@ -8,13 +8,13 @@
 
 # ✔️ Descripción: <br><br> 💻 LABLINI-GEST LIS℠ fue desarrollado con el objetivo de apoyar a los laboratorios principalmente a llevar la gestión de sus citas de laboratorio, creando un motor con un diseño y estructura bien programados permitiendo así llevar un orden y un historial clínico  de estudios de laboratorio solicitados por los pacientes. 
 
-## 👷‍♂️ El flujo de trabajo va desde el registro de horarios para la asignación posterior a las sucursales y módulo, el registro de sucursales, el registro de módulos y la asignación correspondiente a la sucursal, el registro de los grupos de estudio de laboratorio, el registro de los estudios y la asignación de los estudios.
-
-<br><br>
-
 <p align="center">
   <img width="316" height="521" alt="image" src="https://github.com/user-attachments/assets/d9a9e430-fe32-491c-9d83-f6f5ab06eac7" />
 </p>
+
+<br><br>
+
+## 👷‍♂️ El flujo de trabajo va desde el registro de horarios para la asignación posterior a las sucursales y módulo, el registro de sucursales, el registro de módulos y la asignación correspondiente a la sucursal, el registro de los grupos de estudio de laboratorio, el registro de los estudios y la asignación de los estudios.
 
 ## 🛠️ Stack Tecnológico
 
