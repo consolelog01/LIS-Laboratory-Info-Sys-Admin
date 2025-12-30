@@ -14,6 +14,10 @@
   <h1>ScreenShot de módulos importantes:</h1>
 </div>
 
+<div align="center"> 
+  <h4>Módulo de Citas de Laboratorio:</h4>
+</div>
+
 | <h3>Vista SmartPhone</h3> | <h3>Vista PC</h3>  |
 | :---: | :---: | 
 | <h3><b>Tabla, módulo de citas pendientes o próximas</b></h3> <img width="409" height="842" alt="smartphone-only_labllini_gest_lis_modulo_citas" src="https://github.com/user-attachments/assets/3b146755-9ff0-48d6-8cbf-1ab7819b7134" /> | <h3><b>Tabla, módulo de citas pendientes o próximas</b></h3> <br> <img width="1920" height="1080" alt="Módulo Citas - Tabla Principal" src="https://github.com/user-attachments/assets/f47e9f41-f7fe-4ac5-8e6c-0004fd5fb15f" /> |
