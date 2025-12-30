@@ -17,7 +17,11 @@
 
 ## 🛠️ Stack Tecnológico
 
-
+| Característica | Detalle | Estado |
+| :--- | :--- | :---: |
+| **Arquitectura** | MVC (Model-View-Controller) | ✅ |
+| **Seguridad** | Encriptación AES-256 | ✅ |
+| **API** | RESTful con autenticación Bearer | 🛠️ |
 
 ---
 <div align="center">
