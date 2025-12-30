@@ -1,5 +1,5 @@
 <h1>
-  **LIS-Laboratory-Information-System-Admin**
+  <b>LIS-Laboratory-Information-System-Admin</b>
 </h1>
 
 #Sistema WEB LIS para la gestión de laboratorios clínicos
