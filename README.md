@@ -1,5 +1,7 @@
 <h1>
-  :rocket: <b>Sistema WEB LIS para la gestión de laboratorios clínicos</b> :star: :star: :star: :star: :star:
+  :rocket: <b>Sistema WEB LIS para la gestión de laboratorios clínicos</b> 
+  <br
+  :star: :star: :star: :star: :star:
 </h1>
 
 <h1>
