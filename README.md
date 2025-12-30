@@ -9,7 +9,7 @@
 # ✔️ Descripción: <br><br> 💻 LABLINI-GEST LIS℠ fue desarrollado con el objetivo de apoyar a los laboratorios principalmente a llevar la gestión de sus citas de laboratorio, creando un motor con un diseño y estructura bien programados permitiendo así llevar un orden y un historial clínico  de estudios de laboratorio solicitados por los pacientes. 
 
 <p align="center">
-  <img width="316" height="521" alt="image" src="https://github.com/user-attachments/assets/d9a9e430-fe32-491c-9d83-f6f5ab06eac7" />
+  <img width="409" height="842" alt="smartphone-only_labllini_gest_lis_modulo_citas" src="https://github.com/user-attachments/assets/3b146755-9ff0-48d6-8cbf-1ab7819b7134" />
 </p>
 
 <br><br>
