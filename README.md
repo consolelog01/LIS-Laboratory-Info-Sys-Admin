@@ -18,8 +18,8 @@
 ## 🛠️ Stack Tecnológico
 
 | Backend | Frontend | DB | Arquitectura
-| :--- | :--- | :---: | :---: |
-| PHP v8.4 | HTML5 | MVC (Model-View-Controller) | 
+| :---: | :---: | :---: | :---: |
+| PHP v8.4 | HTML5 | MySQL | MVC (Model-View-Controller) | 
 
 ---
 <div align="center">
