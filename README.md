@@ -10,7 +10,7 @@
 
 | Vista Smartphone | Vista PC  |
 | :--- | :--- | 
-| <h5><b>Módulo de citas</b></h5> <img width="409" height="842" alt="smartphone-only_labllini_gest_lis_modulo_citas" src="https://github.com/user-attachments/assets/3b146755-9ff0-48d6-8cbf-1ab7819b7134" /> | <h5><b>Módulo de citas</b></h5> <br> <img width="409" height="842" alt="smartphone-only_labllini_gest_lis_modulo_citas" src="https://github.com/user-attachments/assets/3b146755-9ff0-48d6-8cbf-1ab7819b7134" /> |
+| <h5><b>Tabla, módulo de citas</b></h5> <img width="409" height="842" alt="smartphone-only_labllini_gest_lis_modulo_citas" src="https://github.com/user-attachments/assets/3b146755-9ff0-48d6-8cbf-1ab7819b7134" /> | <h5><b>Tabla, módulo de citas</b></h5> <br> <img width="409" height="842" alt="smartphone-only_labllini_gest_lis_modulo_citas" src="https://github.com/user-attachments/assets/3b146755-9ff0-48d6-8cbf-1ab7819b7134" /> |
 
 
 <br>
