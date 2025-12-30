@@ -1,14 +1,12 @@
-<h3 align="center"> 
+<h2 align="center"> 
   :rocket: <b>Sistema WEB LIS para la gestión de laboratorios clínicos
-</h3>
-<br>
+</h2>
 <h1 align="center"> 
   LABLINI-GEST LIS℠</b> 
 </h1>
-<br>
-<h3 align="center"> 
+<h1 align="center"> 
   :star: :star: :star: :star: :star:
-</h3>
+</h1>
 
 ## 🥇 Este repositorio contiene la documentación y guia visual de algunos módulos más complejos del sistema WEB LIS para la gestión de laboratorio. 
 
