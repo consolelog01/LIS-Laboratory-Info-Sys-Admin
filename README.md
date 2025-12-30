@@ -5,9 +5,9 @@
 </h1>
 
 <p>
-  #Descripción:
+  # Descripción:
   <br>
-  ##Este repositorio contiene la documentación y guia visual de algunos módulos más complejos del sistema WEB LIS para la gestión de laboratorio. 
+  ## Este repositorio contiene la documentación y guia visual de algunos módulos más complejos del sistema WEB LIS para la gestión de laboratorio. 
 </p>
 
 <p align="center">
