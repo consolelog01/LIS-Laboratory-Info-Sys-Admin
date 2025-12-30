@@ -15,7 +15,7 @@
   <img width="316" height="521" alt="image" src="https://github.com/user-attachments/assets/d9a9e430-fe32-491c-9d83-f6f5ab06eac7" />
 </p>
 
-# 🛠️ Stack Tecnológico
+## 🛠️ Stack Tecnológico
 
 
 
