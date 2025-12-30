@@ -12,6 +12,8 @@
   <img width="316" height="521" alt="image" src="https://github.com/user-attachments/assets/d9a9e430-fe32-491c-9d83-f6f5ab06eac7" />
 </p>
 
+---
+
 <div align="center">
-  <sub>&copy; 2025 - 2026 <b>Sistema WEB LIS laboratorio</b>. Todos los derechos reservados.</sub>
+  <sub>&copy; 2025 - 2026 | <b>Sistema WEB LIS laboratorio</b>. Todos los derechos reservados.</sub>
 </div>
