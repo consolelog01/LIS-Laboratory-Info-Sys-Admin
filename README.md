@@ -12,7 +12,7 @@
   <img width="409" height="842" alt="smartphone-only_labllini_gest_lis_modulo_citas" src="https://github.com/user-attachments/assets/3b146755-9ff0-48d6-8cbf-1ab7819b7134" />
 </p>
 
-<br><br>
+<br>
 
 ## 👷‍♂️ El flujo de trabajo va desde el registro de horarios para la asignación posterior a las sucursales y módulo, el registro de sucursales, el registro de módulos y la asignación correspondiente a la sucursal, el registro de los grupos de estudio de laboratorio, el registro de los estudios y la asignación de los estudios.
 
