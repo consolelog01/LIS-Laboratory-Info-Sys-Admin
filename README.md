@@ -1,5 +1,5 @@
 <h1 align="center"> 
-  :rocket: <b>Sistema WEB LIS para la gestión de laboratorios clínicos</b> 
+  :rocket: <b>Sistema WEB (LABLINI-GEST LIS℠) para la gestión de laboratorios clínicos</b> 
   <br>
   :star: :star: :star: :star: :star:
 </h1>
