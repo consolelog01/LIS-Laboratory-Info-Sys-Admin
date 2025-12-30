@@ -15,7 +15,7 @@
 </div>
 
 <div align="center"> 
-  <h4>Módulo de Citas de Laboratorio:</h4>
+  <h3>Módulo de Citas de Laboratorio:</h3>
 </div>
 
 | <h3>Vista SmartPhone</h3> | <h3>Vista PC</h3>  |
