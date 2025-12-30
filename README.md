@@ -5,8 +5,7 @@
 </h1>
 
 <h1>
-  Este <img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
-  repositorio contiene la documentación y guia visual de algunos módulos más complejos del sistema WEB LIS para la gestión de laboratorio. 
+  Este repositorio contiene la documentación y guia visual de algunos módulos más complejos del sistema WEB LIS para la gestión de laboratorio. 
 </h1>
 
 <p>
