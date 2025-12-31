@@ -36,7 +36,7 @@
 
 ## 🛠️ Stack Tecnológico
 
-| Backend | Frontend | DB | Arquitectura | Framework y librerías | Herramientas y Cloud | Metodologías:
+| Backend | Frontend | DB | Arquitectura | Framework y librerías | Herramientas y Cloud | Metodologías |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | PHP v8.4 | HTML5 | MySQL | MVC (Model-View-Controller) | Font Awesome | Trello | Ágil (Scrum) |
 | - | CSS3 | - | - | Moment.js | AI-Assisted Dev | - |
