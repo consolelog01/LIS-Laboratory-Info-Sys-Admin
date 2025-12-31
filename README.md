@@ -32,7 +32,7 @@
 
 <br>
 
-## 👷‍♂️ El flujo de trabajo va desde el registro de horarios para la asignación posterior a las sucursales y módulo, el registro de sucursales, el registro de módulos y la asignación correspondiente a la sucursal, el registro de los grupos de estudio de laboratorio, el registro de los estudios y la asignación a los grupos de estudios.
+## 👷‍♂️ El flujo de trabajo va desde el registro de horarios para la asignación posterior a las sucursales y módulo, el registro de sucursales, el registro de módulos y la asignación correspondiente a la sucursal, el registro de los grupos de estudio de laboratorio, el registro de los estudios de laboratorio y la asignación a los grupos de estudios correspondientes.
 
 ## 🛠️ Stack Tecnológico
 
