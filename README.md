@@ -8,7 +8,7 @@
 
 <div align="center"> 
   <h3>
-     🌐 Sitio WEB Oficial de LABLINI-GEST LIS℠:
+     🌐 ScreenShot de | Página WEB Oficial | LABLINI-GEST LIS℠:
   </h3>
 </div>
 <img width="1439" height="770" alt="image" src="https://github.com/user-attachments/assets/afacafe3-3b29-439a-a135-494675903501" />
