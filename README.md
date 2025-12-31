@@ -53,5 +53,5 @@
 
 ---
 <div align="center">
-  <sub>&copy; 2025 - 2026 | <b>Sistema WEB LIS laboratorio</b>. Todos los derechos reservados.</sub>
+  <sub>&copy; 2025 - 2026 | <b> LABLINI-GEST LIS℠ </b>. Todos los derechos reservados.</sub>
 </div>
