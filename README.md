@@ -60,5 +60,5 @@
 
 ---
 <div align="center">
-  <sub>&copy; 2025 - 2026 | <b> LABLINI-GEST LIS℠ </b>. Todos los derechos reservados.</sub>
+  <sub>&copy; 2025 - &copy; 2024 - <?php echo date("Y"); ?> | <b> LABLINI-GEST LIS℠ </b>. Todos los derechos reservados.</sub>
 </div>
