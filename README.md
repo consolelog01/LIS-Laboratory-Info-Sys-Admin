@@ -36,13 +36,13 @@
 
 ## 🛠️ Stack Tecnológico
 
-| Backend | Frontend | DB | Arquitectura | Framework y librerías | Herramientas y Cloud
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| PHP v8.4 | HTML5 | MySQL | MVC (Model-View-Controller) | Font Awesome | Font Awesome |
-|  | CSS3 |  |  | Moment.js | AI-Assisted Dev |
-|  | Bootstrap |  |  | Chart.js | GitHub |
-|  | JavaScript (ES6+) |  |  | |
-|  | JQuery |  |  | |
+| Backend | Frontend | DB | Arquitectura | Framework y librerías | Herramientas y Cloud | Metodologías:
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| PHP v8.4 | HTML5 | MySQL | MVC (Model-View-Controller) | Font Awesome | Trello | Ágil (Scrum) |
+| | CSS3 | | | Moment.js | AI-Assisted Dev | |
+| | Bootstrap | | | Chart.js | GitHub | |
+| | JavaScript (ES6+) | | | | | |
+| | JQuery | | | | | |
 
 ---
 <div align="center">
