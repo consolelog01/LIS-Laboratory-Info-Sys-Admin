@@ -1,9 +1,16 @@
 <h1 align="center"> 
   :rocket: <b>Sistema WEB LIS para la gestión de laboratorios clínicos
 </h1>
+    
 <h2 align="center"> 
   <b>LABLINI-GEST LIS℠</b> 
   <br>:star: :star: :star: :star: :star:
+</h2>
+
+<h2 align="center"> 
+  <b>Dev:</b> 
+  <br>
+  Ing. Ramón Martínez Cruz 
 </h2>
 
 <div align="center"> 
