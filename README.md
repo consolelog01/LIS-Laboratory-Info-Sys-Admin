@@ -39,12 +39,10 @@
 | Backend | Frontend | DB | Arquitectura
 | :---: | :---: | :---: | :---: |
 | PHP v8.4 | HTML5 | MySQL | MVC (Model-View-Controller) | 
-| ... | 
-
-
-
-
-
+|  | CSS3 |  |  |
+|  | Bootstrap |  |  |
+|  | JavaScript (ES6+) |  |  |
+|  | JQuery |  |  |
 
 ---
 <div align="center">
