@@ -61,5 +61,5 @@
 
 ---
 <div align="center">
-  <sub>&copy; 2024 - 2026 | <b> LABLINI-GEST LIS℠ </b>. Todos los derechos reservados.</sub>
+  <sub>&copy; 20223 - 2026 | <b> LABLINI-GEST LIS℠ </b>. Todos los derechos reservados.</sub>
 </div>
