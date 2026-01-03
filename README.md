@@ -55,7 +55,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | PHP v8.4 | HTML5 | MySQL | MVC (Model-View-Controller) | Font Awesome | Trello | Ágil (Scrum) |
 | - | CSS3 | - | - | Moment.js | GitHub | - |
-| - | Bootstrap | - | - | Chart.js | AI-Assisted Dev | - |
+| - | Bootstrap | - | - | Chart.js | - | - |
 | - | JavaScript (ES6+) | - | - | - | - | - |
 | - | JQuery | - | - | - | - | - |
 
