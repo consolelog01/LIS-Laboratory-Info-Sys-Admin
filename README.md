@@ -13,6 +13,10 @@
   Ing. Ramón Martínez Cruz 
 </h2>
 
+## 🥇 Este repositorio contiene la documentación y guía visual de algunos módulos más complejos del sistema WEB LIS para la gestión de laboratorio. 
+
+# ✔️ Descripción: <br><br> 💻 LABLINI-GEST LIS℠ fue desarrollado con el objetivo de apoyar a los laboratorios clínicos, principalmente apoyándolos a llevar la gestión de sus citas de análisis clínicos, creando un motor con un diseño y estructura bien programados, permitiendo así llevar un orden y un historial clínico de estudios de laboratorio bien organizado de sus pacientes.
+
 <div align="center"> 
   <h3>
      🌐 ScreenShot de | Página WEB Oficial | LABLINI-GEST LIS℠
@@ -20,10 +24,6 @@
 </div>
 
 <img width="1440" height="773" alt="Sitio web lablini" src="https://github.com/user-attachments/assets/cc8f6064-6a5b-40ce-a037-f228de9e7799" />
-
-## 🥇 Este repositorio contiene la documentación y guía visual de algunos módulos más complejos del sistema WEB LIS para la gestión de laboratorio. 
-
-# ✔️ Descripción: <br><br> 💻 LABLINI-GEST LIS℠ fue desarrollado con el objetivo de apoyar a los laboratorios clínicos, principalmente apoyándolos a llevar la gestión de sus citas de análisis clínicos, creando un motor con un diseño y estructura bien programados, permitiendo así llevar un orden y un historial clínico de estudios de laboratorio bien organizado de sus pacientes.
 
 <div align="center"> 
   <h1>
