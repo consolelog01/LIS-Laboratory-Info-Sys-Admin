@@ -4,7 +4,7 @@
 </h1>
     
 <h2 align="center"> 
-  :rocket: <b>Sistema WEB LIS para la gestión de laboratorios clínicos
+  :rocket: <b>Sistema WEB LIS para la gestión de laboratorio clínico
 </h2>
 
 <h2 align="center"> 
