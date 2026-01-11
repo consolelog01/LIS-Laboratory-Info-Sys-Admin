@@ -1,6 +1,6 @@
 <h1 align="center"> 
   <b>LABLINI-GEST LIS℠</b> 
-  <br> ### :star: :star: :star: :star: :star:
+  <br>:star: :star: :star: :star: :star:
 </h1>
     
 <h2 align="center"> 
