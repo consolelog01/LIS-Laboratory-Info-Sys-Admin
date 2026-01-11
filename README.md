@@ -8,7 +8,7 @@
 </h2>
 
 <h2 align="center"> 
-  <b>Dev:</b> 
+  <b>Desarrollador:</b> 
   <br>
   Ing. Ramón Martínez Cruz 
 </h2>
