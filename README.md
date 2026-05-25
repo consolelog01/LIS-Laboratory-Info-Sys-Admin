@@ -19,7 +19,7 @@
   </h4>
 </h2>
 
-[![Título de tu video]([https://img.youtube.com/vi/VIDEO_ID/0.jpg](https://github.com/user-attachments/assets/cc8f6064-6a5b-40ce-a037-f228de9e7799))]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/0b3Wqwy9blU?si=_W8xxdMHgjti79t7))
+[![Título de tu video]([https://img.youtube.com/vi/VIDEO_ID/0.jpg](https://github.com/user-attachments/assets/cc8f6064-6a5b-40ce-a037-f228de9e7799))]([(https://www.youtube.com/watch?v=0b3Wqwy9blU))
 
 <br>
 <br>
