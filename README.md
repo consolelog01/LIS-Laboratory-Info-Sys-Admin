@@ -66,12 +66,6 @@
 
 ---
 
-| <h3>Gestión de Tareas con Trello</h3>  |
-| :---: |
-| <img width="1440" height="900" alt="Gestion de Tareas con Trello" src="https://github.com/user-attachments/assets/ffebb294-e5a5-4a08-8c01-e62365a36085" /> |
-
----
-
 <div align="center">
   <sub>&copy; 2023 - 2026 | <b> LABLINI-GEST LIS℠ </b>. Todos los derechos reservados.</sub>
 </div>
