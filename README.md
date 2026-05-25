@@ -27,6 +27,8 @@
   </h3>
 </div>
 
+<br>
+
 <img width="1440" height="773" alt="Sitio web lablini" src="https://github.com/user-attachments/assets/cc8f6064-6a5b-40ce-a037-f228de9e7799" />
 
 <div align="center"> 
