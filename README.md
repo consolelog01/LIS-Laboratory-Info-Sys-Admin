@@ -12,7 +12,14 @@
   🥇 Este repositorio contiene la documentación y guía visual de algunos módulos más complejos del sistema WEB LIS para la gestión de laboratorio. 
 </h2>
 
-# ✔️ Descripción: <br><br> 💻 LABLINI-GEST LIS℠ fue desarrollado con el objetivo de apoyar a los laboratorios clínicos a llevar la gestión de sus citas de análisis clínicos, creando un motor con un diseño y estructura bien programados, permitiendo así llevar un orden y un historial clínico de estudios de laboratorio bien organizado de sus pacientes.
+# ✔️ Descripción: 
+
+<br>
+<br>
+
+<h6>
+  💻 LABLINI-GEST LIS℠ fue desarrollado con el objetivo de apoyar a los laboratorios clínicos a llevar la gestión de sus citas de análisis clínicos, creando un motor con un diseño y estructura     bien programados, permitiendo así llevar un orden y un historial clínico de estudios de laboratorio bien organizado de sus pacientes.
+</h6>
 
 <div align="center"> 
   <h3>
