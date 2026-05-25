@@ -6,7 +6,7 @@
 </h1>
     
 <h2 align="center"> 
- 👷‍♂️ <b>CTO y desarrollador principal | </b> Ramón Martínez Cruz 
+ 👷‍♂️ <b>CTO y desarrollador principal | Ramón Martínez Cruz</b>
 </h2>
 
 ## 🥇 Este repositorio contiene la documentación y guía visual de algunos módulos más complejos del sistema WEB LIS para la gestión de laboratorio. 
