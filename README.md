@@ -2,7 +2,9 @@
   <b>LABLINI-GEST LIS℠</b> 
   <hr>
   :rocket: WEB SaaS LIS - Para la gestión de laboratorio clínico
-  https://lablinitech.com
+  <h4>
+    https://lablinitech.com
+  </h4>
 </h1>
     
 <h2 align="center"> 
