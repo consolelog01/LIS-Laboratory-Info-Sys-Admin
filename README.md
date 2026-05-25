@@ -4,7 +4,7 @@
 </h1>
     
 <h2 align="center"> 
-  :rocket: <b>WEB SaaS LIS - Para la gestión de laboratorio clínico
+  :rocket: WEB SaaS LIS - Para la gestión de laboratorio clínico
 </h2>
 
 <h2 align="center"> 
