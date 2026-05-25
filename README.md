@@ -19,6 +19,8 @@
   </h4>
 </h2>
 
+[![Título de tu video]([https://img.youtube.com/vi/VIDEO_ID/0.jpg](https://github.com/user-attachments/assets/cc8f6064-6a5b-40ce-a037-f228de9e7799))](https://www.youtube.com/watch?v=VIDEO_ID)
+
 <br>
 <br>
 
