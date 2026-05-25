@@ -19,8 +19,6 @@
   </h4>
 </h2>
 
-[![VIDEO YouTube - LABLINI-GEST LIS | PC | Módulo de Citas Plataforma para el Administrador]([(https://youtu.be/0b3Wqwy9blU?si=5Vr7Rs1-AHytQ8QU))
-
 <br>
 <br>
 
