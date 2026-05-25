@@ -1,12 +1,9 @@
 <h1 align="center"> 
   <b>LABLINI-GEST LIS℠</b> 
   <hr>
+  :rocket: WEB SaaS LIS - Para la gestión de laboratorio clínico
 </h1>
     
-<h2 align="center"> 
-  :rocket: WEB SaaS LIS - Para la gestión de laboratorio clínico
-</h2>
-
 <h2 align="center"> 
  👷‍♂️ <b>Desarrollador | </b> Ing. Ramón Martínez Cruz 
 </h2>
